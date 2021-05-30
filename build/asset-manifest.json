@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3d9c6b2.chunk.css",
-    "main.js": "/static/js/main.92be2896.chunk.js",
-    "main.js.map": "/static/js/main.92be2896.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.85955a4a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.85955a4a.js.map",
-    "static/js/2.e917f1ae.chunk.js": "/static/js/2.e917f1ae.chunk.js",
-    "static/js/2.e917f1ae.chunk.js.map": "/static/js/2.e917f1ae.chunk.js.map",
-    "static/js/3.e2e6735c.chunk.js": "/static/js/3.e2e6735c.chunk.js",
-    "static/js/3.e2e6735c.chunk.js.map": "/static/js/3.e2e6735c.chunk.js.map",
+    "main.css": "/static/css/main.27d57ac0.chunk.css",
+    "main.js": "/static/js/main.56434a82.chunk.js",
+    "main.js.map": "/static/js/main.56434a82.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9ada23dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9ada23dc.js.map",
+    "static/js/2.3e7fff5f.chunk.js": "/static/js/2.3e7fff5f.chunk.js",
+    "static/js/2.3e7fff5f.chunk.js.map": "/static/js/2.3e7fff5f.chunk.js.map",
+    "static/js/3.100689cc.chunk.js": "/static/js/3.100689cc.chunk.js",
+    "static/js/3.100689cc.chunk.js.map": "/static/js/3.100689cc.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.e3d9c6b2.chunk.css.map": "/static/css/main.e3d9c6b2.chunk.css.map",
-    "static/js/2.e917f1ae.chunk.js.LICENSE.txt": "/static/js/2.e917f1ae.chunk.js.LICENSE.txt",
+    "static/css/main.27d57ac0.chunk.css.map": "/static/css/main.27d57ac0.chunk.css.map",
+    "static/js/2.3e7fff5f.chunk.js.LICENSE.txt": "/static/js/2.3e7fff5f.chunk.js.LICENSE.txt",
     "static/media/home.scss": "/static/media/bw.b45aee7e.jpg",
     "static/media/air_jordan_xii.png": "/static/media/air_jordan_xii.b5ed5d08.png",
     "static/media/air_jordan_xii_rb.png": "/static/media/air_jordan_xii_rb.abd77f81.png",
@@ -21,6 +21,7 @@
     "static/media/itachi_dp.png": "/static/media/itachi_dp.d66c6a19.png",
     "static/media/jordan.svg": "/static/media/jordan.a691bd09.svg",
     "static/media/jordan_potrait_cover.jpg": "/static/media/jordan_potrait_cover.811bb738.jpg",
+    "static/media/logo.png": "/static/media/logo.ee12086c.png",
     "static/media/naf_black.png": "/static/media/naf_black.d0542522.png",
     "static/media/naf_blue.png": "/static/media/naf_blue.60295802.png",
     "static/media/naf_white.png": "/static/media/naf_white.b72d0499.png",
@@ -38,9 +39,9 @@
     "static/media/zion2.png": "/static/media/zion2.5fe07401.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.85955a4a.js",
-    "static/js/2.e917f1ae.chunk.js",
-    "static/css/main.e3d9c6b2.chunk.css",
-    "static/js/main.92be2896.chunk.js"
+    "static/js/runtime-main.9ada23dc.js",
+    "static/js/2.3e7fff5f.chunk.js",
+    "static/css/main.27d57ac0.chunk.css",
+    "static/js/main.56434a82.chunk.js"
   ]
 }
